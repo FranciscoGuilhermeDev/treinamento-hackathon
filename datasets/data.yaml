@@ -1,0 +1,13 @@
+train: D:/hackaton-fiap/datasets/train
+val: D:/hackaton-fiap/datasets/valid
+test: D:/hackaton-fiap/datasets/test
+
+nc: 7
+names: ['espada', 'estilete', 'faca', 'facao', 'foice', 'machado', 'tesoura']
+
+roboflow:
+  workspace: mywork-mgllg
+  project: hackaton-bsqdj
+  version: 2
+  license: Public Domain
+  url: https://app.roboflow.com/mywork-mgllg/hackaton-bsqdj/2
